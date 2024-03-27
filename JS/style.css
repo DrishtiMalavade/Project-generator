@@ -1,1 +1,38 @@
+body {
+    font-family: "Lora";
+    text-align: center;
+    background-color: #31363F;
+    margin: 0;
+    padding: 0;
+    color:#EEEEEE;
+}
+
+.container {
+    width: 600px;
+    height: 250px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #222831;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #76ABAE;
+    color:#EEEEEE;
+    font-weight: bolder;
+}
+
+p {
+    margin-bottom: 20px;
+}
 
